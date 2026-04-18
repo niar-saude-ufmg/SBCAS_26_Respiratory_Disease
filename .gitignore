@@ -1,0 +1,10 @@
+venv
+.ipynb_checkpoints
+SIH_Data/Aggregated_table.csv
+SIH_Data/Data
+SIH_Data/Data_csv
+SIH_Data/Data_dbf
+SIH_Data/Filtered_Data
+SIH_Data/Final_Table.csv
+SIH_Data/IT_SIHSUS_1603.pdf
+SIH_Data/TAB_SIH
