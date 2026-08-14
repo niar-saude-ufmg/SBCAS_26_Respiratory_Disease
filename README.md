@@ -147,7 +147,23 @@ The forecasting system is studied as a decision-support application for public h
 
 **Responsible AI for Public Health: A Methodological Illustration with a Forecasting Model applied to Respiratory Hospitalizations on SUS Data**
 
-This work presents the technical and methodological Responsible AI pipeline illustrated by the respiratory hospitalization forecasting case.
+This [work](https://sol.sbc.org.br/index.php/sbcas/article/view/42754) presents the technical and methodological Responsible AI pipeline illustrated by the respiratory hospitalization forecasting case.
+
+Ramon Pereira, Luís Eduardo Brito, Italo Avelar, Matheus Carvalho, Marisa Vasconcelos, Michele Brandão, and Wagner Meira Jr.  
+*Brazilian Symposium on Computing Applied to Health (SBCAS 2026)*, pp. 145–156.
+
+```bibtex
+@inproceedings{pereira2026responsible,
+  title     = {Responsible AI for Public Health: A Methodological Illustration with a Forecasting Model applied to Respiratory Hospitalizations on SUS Data},
+  author    = {Pereira, Ramon G. and Brito, Lu{\'i}s Eduardo Limas and Avelar, Italo and Carvalho, Matheus and Vasconcelos, Marisa and Brand{\~a}o, Michele A. and Meira Jr., Wagner},
+  booktitle = {Anais do Simp{\'o}sio Brasileiro de Computa{\c{c}}{\~a}o Aplicada {\`a} Sa{\'u}de (SBCAS)},
+  year      = {2026},
+  pages     = {145--156},
+  publisher = {Sociedade Brasileira de Computa{\c{c}}{\~a}o},
+  url       = {https://sol.sbc.org.br/index.php/sbcas/article/view/42754}
+}
+
+```
 
 ### FIAR — Longitudinal AI Governance
 
